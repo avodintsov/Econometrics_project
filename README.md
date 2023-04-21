@@ -6,4 +6,4 @@ Then, we used Weighted Least Squares as another measure, and it yielded efficien
 
 The research could be potentially extended to all of Kazakhstan, given that patterns would likely differ in different cities; additionally, it could be extended to analyzing more price- affecting factors. WLS model eliminated heteroscedasticity but may possibly give illogical results; thus, further research is needed.
 
-(Проект в Jupyter Notebook)[https://github.com/avodintsov/Econometrics_project/blob/main/Migration%20in%20Kazakhstan.ipynb]
+[Проект в Jupyter Notebook](https://github.com/avodintsov/Econometrics_project/blob/main/Migration%20in%20Kazakhstan.ipynb)
